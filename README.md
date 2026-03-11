@@ -10,13 +10,12 @@ The system simulates a **high-throughput logging environment** where multiple th
 
 # Key Features
 
-• Multi-threaded **producer–consumer architecture**
-• **Lock-free queue implementation using atomic operations**
-• **Mutex-based thread-safe queue implementation**
-• **Performance benchmarking and comparison**
-• Modular **object-oriented C++ design**
-• Demonstrates **concurrency control and memory management concepts**
-
+* Multi-threaded **producer–consumer architecture**
+* Lock-free queue implementation using atomic operations
+* Mutex-based thread-safe queue implementation
+* Performance benchmarking and comparison
+* Modular **object-oriented C++ design**
+* Demonstrates **concurrency control and memory management concepts**
 ---
 
 # Project Architecture
